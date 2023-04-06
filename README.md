@@ -3,10 +3,10 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>我的告白</title>
+	<title></title>
 </head>
 <body>
-	<h1>我的告白</h1>
+	<h1></h1>
 	<p>親愛的 <strong>許芮芮</strong>，</p>
 	<p>你對我來說真的很重要</p>
 	<p>你是我最愛的那個小豬豬</p>
